@@ -38,6 +38,11 @@ THEN I find a concise, descriptive title
 
   - Application's CSS file is properly commented.
 
+## Links to Homework
+
+[Github Repo](https://github.com/mgordon82/01-HTML-Git-CSS-Challeng)
+[Github Pages](https://mgordon82.github.io/01-HTML-Git-CSS-Challeng/)
+
 ## References
 
 [Project Instructions](https://bootcampspot.instructure.com/courses/5800/assignments/80008?module_item_id=1253790)
