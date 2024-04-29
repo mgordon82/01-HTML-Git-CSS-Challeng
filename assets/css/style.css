@@ -23,7 +23,7 @@ p {
 /* Styling Class Selectors */
 
 /* Header Styles */
-.header {
+header {
   padding: 20px;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
     'Lucida Sans', Arial, sans-serif;
@@ -31,17 +31,17 @@ p {
   color: #ffffff;
 }
 
-.header h1 {
+header h1 {
   display: inline-block;
   font-size: 48px;
 }
 
-.header h1 .seo {
+header h1 .seo {
   color: #d9dcd6;
 }
 
 /* Navigation Styles inside the Header */
-.header nav {
+header nav {
   padding-top: 15px;
   margin-right: 20px;
   float: right;
@@ -49,11 +49,11 @@ p {
   font-size: 20px;
 }
 
-.header nav ul {
+header nav ul {
   list-style-type: none;
 }
 
-.header nav ul li {
+header nav ul li {
   display: inline-block;
   margin-left: 25px;
 }
@@ -68,15 +68,15 @@ p {
   background-position: center;
 }
 
-/* Content Section Styling */
+/* Main Section Styling */
 
-.content {
+main {
   width: 75%;
   display: inline-block;
   margin-left: 20px;
 }
 
-.content section {
+main section {
   margin-bottom: 20px;
   padding: 50px;
   min-height: 300px;
@@ -85,11 +85,11 @@ p {
   color: #ffffff;
 }
 
-.content img {
+main img {
   max-height: 200px;
 }
 
-.content h2 {
+main h2 {
   margin-bottom: 20px;
   font-size: 36px;
 }
@@ -123,7 +123,7 @@ p {
 }
 
 /* Footer styles */
-.footer {
+footer {
   padding: 30px;
   clear: both;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
@@ -131,7 +131,7 @@ p {
   text-align: center;
 }
 
-.footer h2 {
+footer h2 {
   font-size: 20px;
 }
 
