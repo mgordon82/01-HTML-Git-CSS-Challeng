@@ -2,8 +2,8 @@
 
 ## Purpose
 
-This is to refactor the html to be more accessble using HTML semantic elements. 
-The stylesheet is also cleaned up to consolidate redundant style classes as well as renaming some classes to target the html element rather than assigning it a class.  
+This is to refactor the html to be more accessble using HTML semantic elements.
+The stylesheet is also cleaned up to consolidate redundant style classes as well as renaming some classes to target the html element rather than assigning it a class.
 
 ## User Story
 
@@ -41,8 +41,8 @@ THEN I find a concise, descriptive title
 
 ## Links to Homework
 
-[Github Repo](https://github.com/mgordon82/01-HTML-Git-CSS-Challeng)
-[Github Pages](https://mgordon82.github.io/01-HTML-Git-CSS-Challeng/)
+[Github Repo](https://github.com/mgordon82/horiseon-refactor)
+[Github Pages](https://mgordon82.github.io/horiseon-refactor/)
 
 ## References
 
