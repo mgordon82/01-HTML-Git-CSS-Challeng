@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This is to refactor the html to be more accessble using HTML semantic elements.
+This is to refactor the html to be more accessible using HTML semantic elements.
 The stylesheet is also cleaned up to consolidate redundant style classes as well as renaming some classes to target the html element rather than assigning it a class.
 
 ## User Story
