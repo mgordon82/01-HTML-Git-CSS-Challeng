@@ -1,8 +1,9 @@
-# 01-HTML-Git-CSS Challenge
+# Horiseon Refactor
 
 ## Purpose
 
-This repo is for the HTML, Git, and CSS Homework Challenge
+This is to refactor the html to be more accessble using HTML semantic elements. 
+The stylesheet is also cleaned up to consolidate redundant style classes as well as renaming some classes to target the html element rather than assigning it a class.  
 
 ## User Story
 
